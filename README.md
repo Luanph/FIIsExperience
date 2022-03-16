@@ -22,11 +22,10 @@ MODELO DE NEGÓCIO:
 
 - Custos: Disponibilizar na plataforma Play store.
 
-RECURSOS TECNOLÓGICOS
+RECURSOS TECNOLÓGICOS:
 
-- Banco de dados: MySQL.
-- Linguagem de programação: Java.
-- Ferramentas/Framework: Android BootStrap, Android Universal image loader e Robolectric.
-- Repositórios: GIT e GITHUB.
-- Ferramentas de protótipo: Balsamiq e Axure.
-
+- Banco de dados: MySQL
+- Linguagem de programação: Java
+- Ferramentas/Framework: Android BootStrap, Android Universal image loader e Robolectric
+- Repositórios: GIT e GITHUB
+- Ferramentas de protótipo: Balsamiq e Axure
