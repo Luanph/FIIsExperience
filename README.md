@@ -1,5 +1,5 @@
 
-# 1º Versão
+## 1º Versão
 *BOLSA HOJE*
 
 Ideia principal do aplicativo:
@@ -8,21 +8,16 @@ O aplicativo tem por objetivo passar conhecimento para todos que querem conhecer
 Podendo assim conquistar uma renda extra e até mesmo a independência financeira, tendo uma base do mercado financeiro com o app BOLSA HOJE. 
 Sendo este um app totalmente gratuito.
 
-MODELO DE NEGÓCIO:
+#MODELO DE NEGÓCIO:
 
-- Proposta de valor: Todas as informações contidas no aplicativo poderá ser acessado gratuitamente e em qualquer lugar mesmo que o usuário esteja offline.
-
-- Atividade chave: Aprender a linguagem e a programar em Java. Aprender mais sobre como utilizar Git e GitHub e banco de dados.
-
-- Parcerias chaves: Público que tem interesse em aprender como funciona o mercado financeiro.
-
-- Canal de atendimento e suporte: Play store e Instagram.
- 
+- Proposta de valor: Todas as informações contidas no aplicativo poderam ser acessadas gratuitamente e em qualquer lugar.
+- Atividades chaves: Aprender a linguagem Java, aprender mais sobre como utilizar Git e GitHub e banco de dados.
+- Parcerias chaves: Público que tenha interesse em aprender como funciona o mercado financeiro.
+- Canal de atendimento e suporte: Play store e Instagram. 
 - Monetização: Anúncios e alguma outra funcionalidade futura que ainda será definida.
-
 - Custos: Disponibilizar na plataforma Play store.
 
-RECURSOS TECNOLÓGICOS:
+#RECURSOS TECNOLÓGICOS:
 
 - Banco de dados: MySQL
 - Linguagem de programação: Java
