@@ -14,7 +14,7 @@ Sendo este um app totalmente gratuito.
 - Atividades chaves: Aprender a linguagem Java, aprender mais sobre como utilizar Git e GitHub e banco de dados.
 - Parcerias chaves: Público que tenha interesse em aprender como funciona o mercado financeiro.
 - Canal de atendimento e suporte: Play store e Instagram. 
-- Monetização: Anúncios e alguma outra funcionalidade futura que ainda será definida.
+- Monetização:
 - Custos: Disponibilizar na plataforma Play store.
 
 #RECURSOS TECNOLÓGICOS:
