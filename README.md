@@ -4,23 +4,24 @@
 
 Ideia principal do aplicativo:
 
-O aplicativo tem por objetivo passar conhecimento para todos que querem conhecer e aprender mais sobre o mercado financeiro. 
-Podendo assim conquistar uma renda extra e até mesmo a independência financeira, tendo uma base do mercado financeiro com o app BOLSA HOJE. 
+O aplicativo tem por objetivo passar conhecimento sobre Fundos imobiliários.
+Explicando os principais conceitos sobre a constituição de fundos imobiliários e seus principais indicadores.
+E ainda mostrar a posição atual dos principais fundos imobilários.
 Sendo este um app totalmente gratuito.
 
 #MODELO DE NEGÓCIO:
 
-- Proposta de valor: Todas as informações contidas no aplicativo poderam ser acessadas gratuitamente e em qualquer lugar.
-- Atividades chaves: Aprender a linguagem Java, aprender mais sobre como utilizar Git e GitHub e banco de dados.
+- Proposta de valor: Educar os investidores iniciantes em fundos imobiliários com dados atualizados e conceitos apresentados com linguagem simples.
+- Atividades chaves: Aprender a linguagem Python e framework web Flask e a utilizar Git/GitHub e banco de dados.
 - Parcerias chaves: Público que tenha interesse em aprender como funciona o mercado financeiro.
-- Canal de atendimento e suporte: Play store e Instagram. 
-- Monetização:
-- Custos: Disponibilizar na plataforma Play store.
+- Canal de atendimento e suporte: Sem suporte, disponibilização no canal WEB. 
+- Monetização: Gratuíto
+- Custos: Desenvolvimento.
 
 #RECURSOS TECNOLÓGICOS:
 
 - Banco de dados: MySQL
-- Linguagem de programação: Java
-- Ferramentas/Framework: Android BootStrap, Android Universal image loader e Robolectric
+- Linguagem de programação: Python - Flask
+- Ferramentas/Framework: VS CODE, Workbench
 - Repositórios: GIT e GITHUB
 - Ferramentas de protótipo: Balsamiq e Axure
