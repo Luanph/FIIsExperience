@@ -4,7 +4,7 @@
 
 Ideia principal:
 
-O aplicativo tem por objetivo passar conhecimento sobre Fundos imobiliários.
+O site tem por objetivo passar conhecimento sobre Fundos imobiliários.
 Explicando os principais conceitos sobre a constituição de fundos imobiliários e seus principais indicadores.
 E ainda mostrar a posição atual dos principais fundos imobilários.
 Sendo este um app totalmente gratuito.
