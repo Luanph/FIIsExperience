@@ -2,7 +2,7 @@
 ## 1º Versão
 *FIIsExperience*
 
-Ideia principal do aplicativo:
+Ideia principal:
 
 O aplicativo tem por objetivo passar conhecimento sobre Fundos imobiliários.
 Explicando os principais conceitos sobre a constituição de fundos imobiliários e seus principais indicadores.
